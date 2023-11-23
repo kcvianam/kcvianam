@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelly Viana, and I am from Colombia.
-- 👀 I’m interested in Databases, Data Analytics, SQL, Python, Data Science
+- 👀 I’m interested in Databases, Support IT, Data Analytics, SQL, Python, Data Science, Programming.
 - 💞️ I’m looking to collaborate on Data Science Projects, Research, Data Analysis projects.
 - 🌱 I am excited about new growth opportunities. I am constantly learning and improving my skills.
 - 📫 You can reach me on my LinkedIn profile.
