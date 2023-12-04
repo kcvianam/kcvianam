@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kelly Viana, and I am from Colombia.
-- 👀 I’m interested in Databases, Support IT, Data Analytics, SQL, Python, Data Science, Programming.
-- 💞️ I’m looking to collaborate on Data Science Projects, Research, Data Analysis projects.
-- 🌱 I am excited about new growth opportunities. I am constantly learning and improving my skills.
-- 📫 You can reach me on my LinkedIn profile.
-- I am passionate about data analysis and everything related to that area. I want to finish my degree in Systems Engineering remotely and pursuing certifications to enhance my skills.
-- I have experience in databases, reporting, and data analysis, and I am open to new challenges.
-- I am committed and focused with a vision to achieve personal and professional goals. Let's connect and explore possible collaborations!
+- 👋 Hello, I'm Kelly Viana, greetings from Colombia.
+- 👀 I am interested in Databases, Data Analysis, SQL, Python, Data Science, Artificial Intelligence, Machine Learning, and Programming.
+- 💞️ I enjoy collaborating on Science and Data Analysis projects, Research, among others. The opportunity to work in a team to tackle significant challenges is something I truly value.
+- 🌱 I am always on the lookout for new challenges that allow me to enrich my knowledge and skills. My commitment to continuous learning is an essential part of my approach.
+- Currently, I am excited to advance in my career in Systems Engineering remotely, with the expectation of completing my education soon. My goal is to obtain certifications that will elevate my skills to the next level, fueling my constant desire for learning and continuous improvement.
+- I consider myself a dedicated and focused individual, with a clear vision of achieving both personal and professional goals. You can take a look at some of my projects on my GitHub profile.
+- Thank you for taking the time to learn a bit more about me! I am eager to contribute to the world of technology in a meaningful way.
